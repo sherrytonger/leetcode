@@ -32,5 +32,4 @@ class Solution(object):
                         candys[i-1] = candys[i] + 1
         return sum(candys)
 
-sol = Solution()
-print sol.candy([4,2,3,4,1])
+
